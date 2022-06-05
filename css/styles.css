@@ -1,0 +1,221 @@
+body {
+position: relative;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding-left: 12.5rem;
+
+}
+.List {
+  padding: 1.25rem;
+  color: white;
+}
+
+.Box {
+  background-color: grey;
+
+}
+img {
+  width: 10%;
+  position: absolute;
+  height: 6.438rem;
+  left: 3.125rem;
+}
+p {
+  color: blue;
+  margin-left: 12.5rem;
+  display: flex;
+  line-height: 0.5;
+}
+h1 {
+  margin-left: 12.5rem;
+  display: flex;
+  line-height: 0.5;
+}
+.S {
+  font-style: italic;
+}
+hr {
+  display: inline-block;
+  width: 43.5rem;
+  height: 0.313rem;
+  margin-left: 12.7rem;
+  background-color: red;
+
+}
+
+nav {
+
+}
+.aa {
+    line-height: 0.5;
+    color: grey;
+}
+.Second-Image {
+  position:absolute;
+  width: 20%;
+  height: 23.875rem;
+  left: 62.5rem;
+  top:31.25rem;
+  bottom: 0rem;
+}
+
+
+
+.last-part {
+  height: 18.75rem;
+  background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(181,62,37,1) 31%, rgba(252,176,69,1) 100%);
+  background-color: rgba(255, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+
+  margin-top: 20.438rem;
+
+}
+.me {
+  width: 15rem;
+  height: 1.25rem;
+}
+.email {
+  border-radius: 0.313rem;
+  width: 18.75;
+  height: 1.563rem;
+  margin: 0.625rem 0.625rem 0px 0.625rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.email-name {
+  margin-left: 0.625rem;
+  display: inline-block;
+}
+.ace {
+  padding-top: 1.875rem;
+  padding-left: 31.25rem;
+  display: inline-block;
+  position: absolute;
+}
+.fname {
+  margin-top: 0rem;
+  padding-top: 1.875rem;
+  padding-left: 3.125rem;
+  display: inline-block;
+}
+.finput {
+  border-radius: 0.313rem;
+  width: 18.75rem;
+  height: 1.563rem;
+  margin: 1.563rem 0.625rem 0rem 0.625rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.deji {
+  display: flex;
+  position: absolute;
+  top:0.938rem;
+  left:2.5rem;
+}
+.lname {
+  margin-top: 0rem;
+  padding-top: 1.875rem;
+  padding-left: 3.125rem;
+  display: inline-block;
+
+}
+
+.lastinput {
+  border-radius: 0.313rem;
+  width: 18.75rem;
+  height: 1.563rem;
+  margin:1.563rem 0.625rem 0rem 0.625rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.yemi {
+  position: absolute;
+  left:56.25rem;
+  top:0.938rem;
+}
+
+.gbemi {
+  position: absolute;
+  left: 5.813rem;
+  bottom: auto;
+  top:5.625rem;
+  display: inline-block;
+}
+.suli {
+  border-radius: 0.313;
+  width: 18.75rem;
+  height: 2.063rem;
+  margin: 1.563rem 0.625rem 0rem 1.625rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+
+}
+.cc {
+  margin-top: 0rem;
+  padding-top: 1.875rem;
+  padding-left: 3.125rem;
+  display: inline-block;
+
+}
+.love {
+  position: absolute;
+  left: 31.938rem;
+  top: 5.75rem;
+}
+.ife {
+  border-radius: 0.313rem;
+  width: 18.625rem;
+  height: 1.563rem;
+  margin: 1.563rem 0.625rem 0rem 0rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.lfo {
+  position: absolute;
+  left:59.375rem;
+  top: 5.625rem;
+}
+.lif {
+  border-radius: 0.313rem;
+  width: 18.75rem;
+  height: 1.563rem;
+  margin: 1.563rem 0.625rem 0rem 1.563rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.lasttype {
+  position: absolute;
+  top:10.875rem;
+  left: 4.938rem;
+
+}
+.slt {
+  border-radius: 0.313rem;
+  width: 55.813rem;
+  height: 2.375rem;
+  margin: 1.563rem 0.625rem 0rem 0.625rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+.submitbox {
+  position: absolute;
+  left: 0rem;
+  border-radius: 0.313rem;
+  width: 4.125rem;
+  height: 1.375rem;
+  margin: 3.063rem 0.625rem 0rem 66.188rem;
+  display: inline-block;
+  border: 0.063rem solid #ccc;
+}
+a:hover{
+ background-color: yellow;
+ text-decoration: none;
+
+}
+a {
+  text-decoration: none;
+}
